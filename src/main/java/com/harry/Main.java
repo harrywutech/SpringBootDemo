@@ -1,4 +1,4 @@
-package org.harrywutech;
+package com.harry;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
